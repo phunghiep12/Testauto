@@ -1,0 +1,11 @@
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\bin\Debug\Selenium.exe.config
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\bin\Debug\Selenium.exe
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\obj\Debug\Selenium.Form1.resources
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\obj\Debug\Selenium.Properties.Resources.resources
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\obj\Debug\Selenium.csproj.GenerateResource.cache
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\obj\Debug\Selenium.exe
+C:\Users\phung\OneDrive - Đại học FPT- FPT University\Desktop\Test\Selenium\Selenium\obj\Debug\Selenium.pdb
